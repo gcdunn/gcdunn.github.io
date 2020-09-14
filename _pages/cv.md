@@ -11,21 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Astronomy, Stony Brook University
+* M.S. in Astronomy, San Francisco State University
+* M.A. in Astrophysics, Vanderbilt University
+* Ph.D in Astrophysics, Vanderbilt University
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2019 to Present: Data Scientist
+  * XSOLIS (Nashville, TN)
+  * Utilization management for healthcare facilities using clinical information
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2014 to July 2019: Research Assistant
+  * Vanderbilt University
+  * Advisor: Professor Kelly Holley-Bockelmann
+  * Computational astrophysics
+    * Black hole seed formation and assembly in the first billion years of the Universe
   
 Skills
 ======
