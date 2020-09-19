@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Twitter Sockpuppet Analysis with NLP"
+excerpt: "Millions of tweets. Thousands of fake accounts. A sophisticated disinformation campaign."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+View my work on my Github repository: https://github.com/gcdunn/twitter-sockpuppet-nlp.
