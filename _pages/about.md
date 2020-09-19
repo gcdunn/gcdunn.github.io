@@ -8,8 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-About me goes here.
+I am an early-career data scientist with a background in computational astrophysics and high-performance computing.
 
 About my work
 ======
-About my work goes here.
+Astrophysics
+------
+About my PhD work goes here.
+
+Data Science
+------
+About my data science projects here.
