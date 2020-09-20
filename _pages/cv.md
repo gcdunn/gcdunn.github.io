@@ -30,12 +30,10 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data extraction, cleaning and analysis
+* Supervised and unsupervised learning
+* Deep learning
+* Natural Language Processing 
 
 Publications
 ======
