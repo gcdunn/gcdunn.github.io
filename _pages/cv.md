@@ -11,10 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Astronomy, Stony Brook University
-* M.S. in Astronomy, San Francisco State University
-* M.A. in Astrophysics, Vanderbilt University
 * Ph.D in Astrophysics, Vanderbilt University
+* M.A. in Astrophysics, Vanderbilt University
+* M.S. in Astronomy, San Francisco State University
+* B.S. in Astronomy, Stony Brook University
+* Nashville Software School Data Science Cohort 2
 
 Work experience
 ======
@@ -41,6 +42,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+<!---
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -51,8 +53,5 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  {% endfor %}</ul>)
+  --->
