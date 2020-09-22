@@ -2,6 +2,7 @@
 title: "Twitter Sockpuppet Analysis with NLP"
 excerpt: "Millions of tweets. Thousands of fake accounts. A sophisticated disinformation campaign."
 collection: portfolio
+permalink: /portfolio/twitter-nlp
 ---
 Millions of tweets. Thousands of fake accounts. A sophisticated disinformation campaign.  
 
