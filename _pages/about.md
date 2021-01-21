@@ -12,7 +12,6 @@ I am an early-career data scientist with a background in computational astrophys
 
 About my work
 ======
-Under construction!
 
 Astrophysics
 ------
