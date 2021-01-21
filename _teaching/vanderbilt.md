@@ -4,7 +4,7 @@ collection: teaching
 type: "Introduction to Astronomy Lab"
 permalink: /teaching/vanderbilt
 venue: "Vanderbilt University, Department of Physics and Astronomy"
-date: 2015
+date: 2015-2018
 ---
 
 
