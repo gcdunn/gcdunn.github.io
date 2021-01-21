@@ -1,9 +1,10 @@
 ---
 title: "Vanderbilt University"
 collection: teaching
-type: "Lab"
+type: "Introduction to Astronomy Lab"
 permalink: /teaching/vanderbilt
 venue: "Vanderbilt University, Department of Physics and Astronomy"
+date: 2015
 ---
 
 
