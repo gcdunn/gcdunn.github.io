@@ -1,5 +1,5 @@
 ---
-title: "Sowing Black Hole Seeds"
+title: "Sowing Black Hole Seeds: Direct Collapse Black Hole Formation with Realistic Lyman–Werner Radiation in Cosmological Simulations"
 collection: publications
 permalink: /publication/2018-mbh-seeds
 excerpt: 'We study the demographics of direct collapse massive black hole seed formation sites in the context of a cosmological SPH+N-body simulation with self-consistent, time-dependent, non-uniform Lyman-Werner radiation.'
