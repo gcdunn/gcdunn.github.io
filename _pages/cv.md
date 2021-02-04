@@ -19,9 +19,13 @@ Education
 
 Work experience
 ======
-* July 2019 to Present: Data Scientist
+* November 2020 to Present: Data Scientist II
+* July 2019 to November 2020: Data Scientist
   * XSOLIS (Nashville, TN)
-  * Utilization management for healthcare facilities using clinical information
+  * Work on a team of data scientists to develop and deploy machine learning models related to utilization management for healthcare facilities using clinical information.
+    * Data extraction, cleaning, and analysis of both structured and unstructured data, including labs, vitals, orders, procedures, diagnoses, and large collections of documents
+    * Build, validate, and deploy machine learning models, including linear and non-linear models, logistic and linear regression, and binary and multi-class targets
+    * Model resource planning targets such as level of care, patient stratification, and discharge planning
 
 * August 2014 to July 2019: Research Assistant
   * Vanderbilt University
@@ -29,12 +33,13 @@ Work experience
   * Computational astrophysics
     * Black hole seed formation and assembly in the first billion years of the Universe
   
-Skills
+Tools and Techniques
 ======
-* Data extraction, cleaning and analysis
-* Supervised and unsupervised learning
-* Deep learning
-* Natural Language Processing 
+* Data analysis: Python/Pandas, R/Tidyverse
+* Machine learning: scikit-learn, Keras, TensorFlow, XGBoost
+* AWS Cloud Computing: EC2, ECS, S3
+* Programming: Python, R, C/C++, SQL, BASH
+* Workflow: git/Github, LaTeX, Markdown, VS Code, Jupyter Notebook
 
 Publications
 ======
