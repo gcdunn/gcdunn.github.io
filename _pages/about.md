@@ -19,7 +19,7 @@ My dissertation focused on investigating the processes of massive black hole see
 
 This animation demonstrates the formation of massive black hole (MBH) seeds (represented by filled, black circles) from redshift ~30 to 5.  The MBH seeds form in areas of high density gas in dark matter mini halos very early in the Universe.  This animation was created using *Gasoline* simulations.
 
-<img src="gasdensityBoxBHpos200kpc.gif" height="250" class="center">
+<img src="https://gcdunn.github.io/files/gasdensityBoxBHpos200kpc.gif" height="250" class="center">
 
 Data Science
 ------
